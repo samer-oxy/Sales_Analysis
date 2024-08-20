@@ -1,0 +1,16 @@
+Date,Store,Product,Quantity,Revenue
+2023-01-01,Store 1,Product A,10,100
+2023-01-02,Store 1,Product B,5,75
+2023-01-03,Store 2,Product A,20,200
+2023-01-04,Store 2,Product C,8,120
+2023-01-05,Store 3,Product B,15,150
+2023-01-06,Store 3,Product A,30,300
+2023-01-07,Store 1,Product C,12,180
+2023-01-08,Store 1,Product A,8,80
+2023-01-09,Store 2,Product B,10,100
+2023-01-10,Store 3,Product C,6,90
+2023-01-11,Store 2,Product A,25,250
+2023-01-12,Store 1,Product B,10,70
+2023-01-13,Store 3,Product A,15,160
+2023-01-14,Store 2,Product C,9,110
+2023-01-15,Store 3,Product B,18,175
